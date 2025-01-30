@@ -57,6 +57,7 @@ Shopping Trends Analysis: Exploratory Data Analysis (EDA) Project
  
  The project uses descriptive statistics and compelling visualizations to communicate
  findings. Examples include:
+ 
  ● Sales trends over time.
  
  ● Product category preferences segmented by demographics.
