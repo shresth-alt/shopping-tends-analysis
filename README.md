@@ -1,4 +1,4 @@
-# Shopping-Trends-Analysis-
+# Shopping-Trends-Analysis
 Shopping Trends Analysis: Exploratory Data Analysis (EDA) Project
  This project focuses on Exploratory Data Analysis (EDA) for understanding consumer
  shopping trends. By leveraging a dataset with detailed customer and purchase information,
